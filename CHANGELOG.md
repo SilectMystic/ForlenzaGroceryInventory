@@ -14,4 +14,8 @@
   - View the current inventory.
   - Search for items by name.
 
-
+## Version 1.2
+ - 2023-10-20
+ - Fixes
+  - Fixed crashes with the program when adding and removing items.
+  - Fixed missing parenthesis which made code to crash
